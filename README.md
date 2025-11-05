@@ -63,6 +63,7 @@ Read the [Expo Community Guidelines](https://expo.dev/guidelines) before interac
 
 - [📚 Documentation](#-documentation)
 - [🗺 Project Layout](#-project-layout)
+- [🤖 Agents](#-agents)
 - [🏅 Badges](#-badges)
 - [👏 Contributing](#-contributing)
 - [❓ FAQ](#-faq)
@@ -90,6 +91,10 @@ Read the [Expo Community Guidelines](https://expo.dev/guidelines) before interac
 - [`tools`](/tools) contain build and configuration tools.
 - [`template-files`](/template-files) contains templates for files that require private keys. They are populated using the keys in `template-files/keys.json`.
 - [`template-files/ios/dependencies.json`](/template-files/ios/dependencies.json) specifies the CocoaPods dependencies of the app.
+
+## 🤖 Agents
+
+Learn about the automated systems and tools that help with development, testing, and deployment in the [Agents documentation](/AGENTS.md). This includes information about GitHub Actions runners, custom actions, testing agents, and automated bots that keep the repository running smoothly.
 
 ## 🏅 Badges
 
